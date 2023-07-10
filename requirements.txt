@@ -1,0 +1,4 @@
+voila
+openai
+langchain
+faiss-cpu
