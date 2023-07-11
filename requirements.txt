@@ -1,5 +1,6 @@
+IPython
+ipywidgets
 voila
 openai
 langchain
 faiss-cpu
-ipywidgets
