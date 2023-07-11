@@ -1,5 +1,7 @@
 IPython
 ipywidgets
+pyarrow
+pandas
 voila
 openai
 langchain
